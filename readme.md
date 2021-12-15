@@ -1,0 +1,1 @@
+Versao 1: comandos de pandas cap: 1.1 a 1.5
